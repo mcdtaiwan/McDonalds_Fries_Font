@@ -1,7 +1,7 @@
 ![](https://github.com/mcdtaiwan/McDonalds_Fries_Font/blob/main/McDonalds_Fries_Font.png)
 
 # 關於麥當勞薯條體
-為每⼀位熱愛薯條的麥當勞鐵粉獻上　— ⿆當勞薯條體 
+為每⼀位熱愛薯條的麥當勞鐵粉獻上　— ⿆當勞薯條體。
 薯條 vs 番茄醬一起鬧一下！
 酥脆綿密的薯條、沾上美味番茄醬，拼出無限可能。
 ⿆當勞薯條體，免費開放下載！
