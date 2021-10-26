@@ -1,4 +1,4 @@
-![](https://github.com/mcdtaiwan/Chicken_McNuggets/blob/main/ChickenMcNuggets_Demo.png)
+![](https://github.com/mcdtaiwan/McDonalds_Fries_Font/blob/main/%E9%BA%A5%E7%95%B6%E5%8B%9E%E8%96%AF%E6%A2%9D%E9%AB%94_%E8%8B%B1%E6%96%87.png)
 
 # 關於麥當勞薯條體
 為每⼀位熱愛薯條的麥當勞鐵粉獻上　— ⿆當勞薯條體 薯條 vs 番茄醬一起鬧一下！
