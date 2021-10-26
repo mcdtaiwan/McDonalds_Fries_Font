@@ -1,4 +1,3 @@
-# McDonalds_Fries_Font
 ![](https://github.com/mcdtaiwan/Chicken_McNuggets/blob/main/ChickenMcNuggets_Demo.png)
 
 # 關於麥當勞薯條體
